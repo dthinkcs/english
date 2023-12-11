@@ -1,24 +1,27 @@
-america
-cup
-stir
-father
+america /əˈmɛɹ.ɪ.kə/ OR /əˈmɛɹ.ə.kə/ 
+cup /kʌp/
+stir  /stɝ/
+father /ˈfɑðɚ/
 
-sit
-seat
+sit /sɪt/
+seat /siːt/
 
-set
-sat
+ɛ | set /sɛt/
+æ | sat /sæt/
+  | hand /hænd/
 
-foot
-food
+ʊ | foot /fʊt/
+ʊ | food /fud/
 
-daughter
+ɔ | daughter /ˈdɔ.tɚ/
 
-sail 
-now 
-my 
-only 
-boy
+eɪ | sail /seɪl/
+aʊ | now /naʊ/
+aɪ | my /maɪ/
+oʊ | only /ˈoʊn.li/
+ɔɪ | boy /bɔɪ/
 
-American cup stir father sit seat set sat foot food daughter. 
+January /ˈd͡ʒænjuˌɛɹi/
+
+America cup stir father sit seat set sat hand foot food daughter. 
 Sail now my only boy.
