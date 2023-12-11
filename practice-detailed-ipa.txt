@@ -9,19 +9,19 @@ vowels
 ɪ(ih) || sit pink /pɪnk/
 i(ee) || seat green /gɹin/
 
-ʊ || foot good book wood /wʊd/
-u || food goo boo blue /bɫu/
+ʊ(उ) || foot good book wood /wʊd/
+u    || food goo boo blue /bɫu/
 
-ɛ || set red /ɹɛd/ 
-æ || sat fast sand /sænd/
+ɛ(eh) || set red /ɹɛd/ 
+æ cat(कैt) || sat fast sand /sænd/
 
 ɔ || daughter force mauve /mɔv/
 
-eɪ || sail jade /dʒeɪd/ //DIPHTHONGS
-aʊ || now brown /bɹaʊn/
-aɪ || my lime /laɪm/
-oʊ || only gold /goʊɫd/
-ɔɪ || boy toy turquoise /ˈtɝ·kɔɪz/
+eɪ(EH-EE) || sail jade /dʒeɪd/ //DIPHTHONGS
+aʊ(AW)    || now brown /bɹaʊn/
+aɪ(AH-EE) || my lime /laɪm/
+oʊ(o+उ)   || only gold /goʊɫd/
+ɔɪ(OH-EE) || boy toy turquoise /ˈtɝ·kɔɪz/
 
 ----------
 consonants
