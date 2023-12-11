@@ -1,7 +1,7 @@
 -------
 vowels
 ------
-/ə/(uh) || around america holiday dust /dəst/
+/ə/(uh) || around america holiday dust /dəst/ // monothongs
 cup 
 /ɝ/(ur) || stir girl purple /ˈpɝ·pəl/
 /ɑ/(ah) || father coffee /ˈkɑ·fi/
@@ -9,19 +9,19 @@ cup
 ɪ(ih) || sit pink /pɪnk/
 i(ee) || seat green /gɹin/
 
-foot good book wood
-food goo boo blue
+foot good book wood /wʊd/
+food goo boo blue /bɫu/
 
-set red
-sat fast sand
+set red /ɹɛd/ 
+sat fast sand /sænd/
 
-daughter force mauve
+daughter force mauve /mɔv/
 
-sail jade
-now brown
-my lime
-only gold
-boy toy turquoise
+sail jade /dʒeɪd/ // dipthongs
+now brown /bɹaʊn/
+my lime /laɪm/
+only gold /goʊɫd/
+boy toy turquoise /ˈtɝ·kɔɪz/
 
 ----------
 consonants
