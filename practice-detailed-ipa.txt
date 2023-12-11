@@ -2,7 +2,7 @@
 vowels
 ------
 /ə/(uh) || around america holiday dust /dəst/ //MONOTHONGS
-cup 
+/^/(UH) || cup 
 /ɝ/(ur) || stir girl purple /ˈpɝ·pəl/
 /ɑ/(ah) || father coffee /ˈkɑ·fi/
 
