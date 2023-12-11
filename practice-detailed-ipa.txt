@@ -13,7 +13,7 @@ i(ee) || seat green /gɹin/
 u    || food goo boo blue /bɫu/
 
 ɛ(eh) || set red /ɹɛd/ 
-æ cat(कैt) || sat fast sand /sænd/
+æ(AA) cat(कैt) || sat fast sand /sænd/
 
 ɔ || daughter force(o == ओ) mauve /mɔv/
 
@@ -27,23 +27,23 @@ oʊ(o(ओ)+ʊ(उ))   || only gold /goʊɫd/
 consonants
 ----------
 
-pace pig | base bear
-mace mouse
+pace pig /pɪɡ/ | base bear /bɛɹ/
+mace mouse /maʊs/ 
 
-face frog | vace beaver
+face frog /fɹɑg/ | vace beaver /ˈbi·vɝ/
 
-think panther | this feather
+think panther /ˈpæn·θɝ/ | this feather /ˈfɛð·ɝ/
 
-tay turtle | day dog
-nay dinosaur
-say snake | Zayn zebra
-lay lion
+tay turtle /ˈtɝ·təɫ/ | day dog /dɔg/ 
+nay dinosaur /ˈdɑɪ·nəˌsɔɹ/
+say snake /sneɪk/ | Zayn zebra /ˈzi·bɹə/
+lay lion /ˈɫɑɪ·ən/
 
-shoe sheep | vision television
-chain chicken | beige giraffe
-rave other their rabbit 
+shoe sheep /ʃip/ | vision television /ˈtɛɫ·əˌvɪʒ·ən/
+chain chicken /ˈtʃɪk·ɪn/ | beige giraffe /dʒəˈɹæf/
+rave other their rabbit /ˈɹæb·ɪt/
 
-yes yak
+yes yak /jæk/
 
 king cat | gone goat
 sing penguin
