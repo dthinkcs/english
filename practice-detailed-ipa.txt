@@ -27,28 +27,28 @@ oʊ(o(ओ)+ʊ(उ))   || only gold /goʊɫd/
 consonants
 ----------
 
-pace pig /pɪɡ/ | base bear /bɛɹ/
-mace mouse /maʊs/ 
+p b || pace pig /pɪɡ/ | base bear /bɛɹ/
+m   || mace mouse /maʊs/ 
 
-face frog /fɹɑg/ | vace beaver /ˈbi·vɝ/
+f v || face frog /fɹɑg/ | vace beaver /ˈbi·vɝ/
 
-think panther /ˈpæn·θɝ/ | this feather /ˈfɛð·ɝ/
+θ ð || think panther /ˈpæn·θɝ/ | this feather /ˈfɛð·ɝ/
 
-tay turtle /ˈtɝ·təɫ/ | day dog /dɔg/ 
-nay dinosaur /ˈdɑɪ·nəˌsɔɹ/
-say snake /sneɪk/ | Zayn zebra /ˈzi·bɹə/
-lay lion /ˈɫɑɪ·ən/
+t d || tay turtle /ˈtɝ·təɫ/ | day dog /dɔg/ 
+n   || nay dinosaur /ˈdɑɪ·nəˌsɔɹ/
+s z || say snake /sneɪk/ | Zayn zebra /ˈzi·bɹə/
+l/ɫ || lay lion /ˈɫɑɪ·ən/
 
-shoe sheep /ʃip/ | vision television /ˈtɛɫ·əˌvɪʒ·ən/
-chain chicken /ˈtʃɪk·ɪn/ | beige giraffe /dʒəˈɹæf/
-rave other their rabbit /ˈɹæb·ɪt/
+ʃ(SH) || shoe sheep /ʃip/ | vision television /ˈtɛɫ·əˌvɪʒ·ən/
+tʃ(CH)|| chain chicken /ˈtʃɪk·ɪn/ | beige giraffe /dʒəˈɹæf/
+ɹ     || rave other their rabbit /ˈɹæb·ɪt/
 
-yes yak /jæk/
+j     || yes yak /jæk/
 
-king cat /kæt/ | gone goat /goʊt/
-sing penguin /ˈpɛŋ ·gwən/
-wicket wolf /wʊɫf/
+k g   || king cat /kæt/ | gone goat /goʊt/
+ŋ     || sing penguin /ˈpɛŋ·gwən/
+w     || wicket wolf /wʊɫf/
 
-hi horse /hɔɹs/
+h     || hi horse /hɔɹs/
 
 
