@@ -4,7 +4,7 @@ vowels
 /ə/(uh) || around america holiday dust /dəst/ //MONOTHONGS
 /^/(UH) || cup 
 /ɝ/(ur) || stir girl purple /ˈpɝ·pəl/
-/ɑ/(ah) || father /ˈfɑðɚ/ coffee /ˈkɑ·fi/
+/ɑ/(ah) || father /ˈfɑðɚ/ coffee /ˈkɑ·fi/ AND /ˈkɔ.fi/
 
 ɪ(ih) || sit pink /pɪnk/
 i(ee) || seat green /gɹin/
